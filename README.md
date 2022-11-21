@@ -1,6 +1,7 @@
 <h3>Translate-Bot<h3>
 
 > 一個簡單的翻譯Bot 含有Slash指令喔~ 
+> 支援語言 : https://cloud.google.com/translate/docs/languages
 
 # 安裝
 
